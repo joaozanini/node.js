@@ -1,5 +1,0 @@
-console.log(`o caminho do diretório é ${__dirname}`)
-
-setInterval(() => {
-    console.log('olá')
-}, 1000)
